@@ -100,8 +100,8 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
 }
 
 .hometext {
-    font-size: 80px;
-    margin-top: 40%;
+    font-size: 6vw;
+    margin-top: 50%;
     color: white;
     text-align:center;
     background-color: black;
