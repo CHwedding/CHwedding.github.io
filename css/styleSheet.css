@@ -15,6 +15,21 @@ body{
     margin-right:20px;
     margin-top: 50px;
 }
+
+/*google maps*/
+  .mapouter {
+      position: relative;
+      text-align: right;
+      height: 500px;
+      width: 600px;
+  }
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 500px;
+    width: 600px;
+}
  article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{
     display:block
 }
