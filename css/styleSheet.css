@@ -1,6 +1,6 @@
 /* W3.CSS 4.10 February 2018 by Jan Egil and Borge Refsnes */
  html{
-    box-sizing:border-box
+    box-sizing:content-box
 }
 *,*:before,*:after{
     box-sizing:inherit
@@ -11,7 +11,9 @@
     -webkit-text-size-adjust:100%
 }
 body{
-    margin:20
+    margin-left:20px;
+    margin-right:20px;
+    margin-top: 50px;
 }
  article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{
     display:block
