@@ -102,9 +102,10 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
     background-origin: border-box;
 }
 
+
 .hometext {
     font-size: 6vw;
-    margin-top: 700px;
+    margin-top: 50%;
     color: white;
     text-align:center;
     background-color: black;
@@ -126,7 +127,7 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
 
 .empty {
     display: block;
-    padding-top: 420px;
+    padding-top: 40%;
 }
 
 audio, canvas, progress, video {
