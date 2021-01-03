@@ -149,25 +149,39 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
     padding-top: 10px;
     text-align: center;
     margin-right: auto;
-    background-image: url("../wedding.jpg");
+
+    /*text-align: center;*/
+}
+
+.headerbox::after {
+
+    content: "";
     background-image: url("../busteni_panorama.jpg");
     background-repeat: no-repeat;
-    /*background-size: 100vw;*/
-    background-position-x: -250px;
-    background-position-y: -340px;
-    /*text-align: center;*/
+    background-size: 100vw;
+    background-position-x: 0px;
+    background-position-y: -50px;
+    opacity: .7;
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
 }
 
 .homepage {
     background-image: url("../wedding.jpg");
     background-size: 100vw;
     background-position-x: 0vw;
-    background-position-y: 10vw;
+    background-position-y: 190px;
     background-repeat: no-repeat;
     text-align: center;
     margin-right: auto;
     background-origin: border-box;
 }
+
+
 
 
 .hometext {
@@ -185,6 +199,7 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
     color: white;
     text-align:center;
     background-color: black;
+    border-style: double none none none;
     opacity: 0.6;
 }
 
