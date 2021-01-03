@@ -7,6 +7,21 @@ html {
     box-sizing: inherit
 }
 
+@font-face {
+    font-family: forumFont;
+    src: url('../fonts/Forum-Regular.ttf');
+}
+
+@font-face {
+    font-family: josefinRegularFont;
+    src: url('../fonts/JosefinSans-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: josefinItalicFont;
+    src: url('../fonts/JosefinSans-Italic-VariableFont_wght.ttf');
+}
+
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
 html {
     -ms-text-size-adjust: 100%;
@@ -70,11 +85,55 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
     display: block
 }
 
+@font-face {
+    font-family: weddingFont;
+    src: url('../fonts/Shefilla.otf');
+}
+
+@font-face {
+    font-family: weddingFont2;
+    src: url('../fonts/Lovestrong.ttf');
+}
+
+@font-face {
+    font-family: weddingFont3;
+    src: url('../fonts/Basfar.otf');
+}
+
+@font-face {
+    font-family: pinionFont;
+    src: url('../fonts/PinyonScript-Regular.ttf');
+}
+
+.shefilla {
+    font-size: 50px;
+    font-family: weddingFont;
+}
+
+.lovestrong {
+    font-size: 60px;
+    font-weight: bold;
+    font-family: weddingFont2;
+}
+
+.basfar {
+    font-size: 50px;
+    font-family: weddingFont3;
+}
+
+.pinion {
+    font-size: 50px;
+    font-family: pinionFont;
+}
+
+
 .homeheaderbox {
     /*margin-left:20%;
     margin-right:20%;
 
     */
+    box-sizing: border-box;
+    padding-top: 10px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -83,6 +142,8 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
 .headerbox {
     /* margin-left:20%;
      margin-right:20%;*/
+    box-sizing: border-box;
+    padding-top: 10px;
     text-align: center;
     margin-right: auto;
     background-image: url("../wedding.jpg");
@@ -291,6 +352,11 @@ textarea {
 /* End extract */
 html, body {
     font-family: Verdana, sans-serif;
+    font-family: josefinRegularFont, Arial, sans-serif;
+    /*font-family: forumFont, Arial, sans-serif;
+     font-family: "Segoe UI", Arial, sans-serif;
+    font-weight: 400;
+    margin: 10px 0*/
     font-size: 15px;
     line-height: 1.5
 }
@@ -329,6 +395,7 @@ h6 {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "Segoe UI", Arial, sans-serif;
+    font-family: josefinRegularFont, Arial, sans-serif;
     font-weight: 400;
     margin: 10px 0
 }
