@@ -296,6 +296,10 @@ section p {
     text-align: justify;
 }
 
+section a {
+    font-size:20px;
+}
+
 
 .section2 {
     position: relative;
@@ -318,6 +322,10 @@ section p {
 .section2 h2 {
     margins: 0px;
     padding: 0px;
+}
+
+.section2 a {
+    font-size:20px;
 }
 
 
@@ -393,37 +401,40 @@ svg#bigTriangleColor2 {
 
 /* Image display */
 
-#containerimg{
-    width: 1060px;
+.containerimg{
+    width: 820px;
     margin: 0 auto;
     align-content: center;
+    overflow:hidden;
 }
 
 .cropped {
-    width: 512px; /* width of container */
-    height: 320px; /* height of container */
+    width: 400px; /* width of container */
+    height: 260px; /* height of container */
     overflow: hidden;
     border: 5px solid black;
 }
 
 .cropped .margin {
-    margin: -50px 0px 0px 0px;
+    margin: -30px 0px 0px 0px;
 }
 
+.cropped .margin2 {
+    margin: -30px 0px 0px 0px;
+}
+
+
+.cropped .margin3 {
+    margin: -50px 0px 0px 0px;
+}
 
 div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
-    width: 512px;
+    width: 400px;
     float:left
 }
 
-div.gallery.end{
-    margin: 5px;
-    border: 1px solid #ccc;
-    width: 520px;
-
-}
 
 div.gallery:hover {
     border: 1px solid #777;
