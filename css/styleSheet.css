@@ -143,12 +143,13 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
     /* margin-left:20%;
      margin-right:20%;*/
     box-sizing: border-box;
+    border-style: none none double none;
     padding-top: 10px;
     text-align: center;
     margin-right: auto;
     background-image: url("../wedding.jpg");
     background-repeat: no-repeat;
-    background-size: 100vw;
+    /*background-size: 100vw;*/
     background-position-x: 0vw;
     /*text-align: center;*/
 }
@@ -157,6 +158,7 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
     background-image: url("../wedding.jpg");
     background-size: 100vw;
     background-position-x: 0vw;
+    background-position-y: 10vw;
     background-repeat: no-repeat;
     text-align: center;
     margin-right: auto;
