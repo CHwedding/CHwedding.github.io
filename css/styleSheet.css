@@ -160,7 +160,7 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
     content: "";
     background-image: url("../busteni_panorama.jpg");
     background-repeat: no-repeat;
-    background-size: 100vw;
+    background-size: 150vw;
     background-position-x: 0px;
     background-position-y: -50px;
     opacity: .7;
