@@ -160,7 +160,7 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
     content: "";
     background-image: url("../busteni_panorama.jpg");
     background-repeat: no-repeat;
-    background-size: 125vw;
+    background-size: 129vw;
     background-position-x: 0px;
     background-position-y: -50px;
     opacity: .7;
@@ -267,12 +267,20 @@ section h2 {
     padding: 0px;
 }
 
+section address {
+    padding-left: 20%;
+    text-align: left;
+}
+
 
 section p {
     color: black;
     opacity: 1;
     font-size: 1.3em;
     line-height: 1.5;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: justify;
 }
 
 
@@ -300,11 +308,20 @@ section p {
 }
 
 
+.section2 address {
+    padding-left: 20%;
+    text-align: left;
+}
+
+
 .section2 p {
     color: black;
     opacity: 1;
     font-size: 1.3em;
     line-height: 1.5;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: justify;
 }
 
 .text:first-child {
