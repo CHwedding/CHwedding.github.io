@@ -207,6 +207,12 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
 
 .nomargins {
     margin: 0px;
+    text-align: center;
+}
+
+.nopadding {
+    padding: 0;
+    text-align: center;
 }
 
 .emptybox {
