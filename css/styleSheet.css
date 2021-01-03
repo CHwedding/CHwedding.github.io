@@ -1,4 +1,6 @@
 /* W3.CSS 4.10 February 2018 by Jan Egil and Borge Refsnes */
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400,700);
+
 html {
     box-sizing: border-box
 }
@@ -182,13 +184,11 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
 }
 
 
-
-
 .hometext {
     font-size: 6vw;
     margin-top: 50vw;
     color: white;
-    text-align:center;
+    text-align: center;
     background-color: #052753;
     opacity: 0.4;
 
@@ -197,7 +197,7 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
 .footertext {
     font-size: 20px;
     color: white;
-    text-align:center;
+    text-align: center;
     background-color: black;
     border-style: double none none none;
     opacity: 0.6;
@@ -211,6 +211,156 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
     display: block;
     padding-top: 500px;
 }
+
+.centerme {
+    text-align: center;
+    background: white;
+}
+
+/* Section sep */
+:root {
+    --color1: #B2EBF2;
+    --cloudColor: aliceblue;
+}
+
+*, *:after, *::before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/* General styles and layout */
+
+
+
+.container {
+    overflow: hidden;
+    width: 100%;
+    margin: 0px;
+    /* we don't want the pseudo-elements sticking out */
+}
+
+.container svg {
+    display: block;
+}
+
+section {
+    position: relative;
+    padding: 2em;
+    text-align: center;
+}
+
+section::after {
+    content: "";
+    background:#e9e9e9;
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+
+
+section h2 {
+    margins: 0px;
+    padding: 0px;
+}
+
+
+section p {
+    color: black;
+    opacity: 1;
+    font-size: 1.3em;
+    line-height: 1.5;
+}
+
+
+.section2 {
+    position: relative;
+    padding: 2em;
+    text-align: center;
+}
+
+.section2::after {
+    content: "";
+    background: white;
+    opacity: 0.07;
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+
+.section2 h2 {
+    margins: 0px;
+    padding: 0px;
+
+}
+
+
+.section2 p {
+    color: black;
+    opacity: 1;
+    font-size: 1.3em;
+    line-height: 1.5;
+}
+
+.text:first-child {
+    text-align: right;
+}
+
+.text:nth-child(2) {
+    text-align: left;
+}
+
+.col-2 .column {
+    width: 49%;
+}
+
+.col-3 .column {
+    padding: 0 1%;
+    width: 33%;
+    text-align: center;
+}
+
+.col-3 .column p {
+    padding: 1.4em;
+}
+
+.column {
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+.color {
+    background: #e9e9e9;
+}
+
+/* Big Triangle */
+svg#bigTriangleColor {
+    pointer-events: none;
+}
+
+#bigTriangleColor path {
+    fill: #e9e9e9;
+    stroke: #e9e9e9;
+    stroke-width: 2;
+}
+
+svg#bigTriangleColor2 {
+    pointer-events: none;
+}
+
+#bigTriangleColor2 path {
+    fill: white;
+    stroke: white;
+    stroke-width: 2;
+}
+
 
 audio, canvas, progress, video {
     display: inline-block
