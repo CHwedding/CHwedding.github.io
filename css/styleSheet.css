@@ -73,11 +73,13 @@ body {
 .topnav a:hover {
     background-color: #ddd;
     color: black;
+
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
     background-color: #4CAF50;
+
     color: white;
 }
 
@@ -148,9 +150,11 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
     text-align: center;
     margin-right: auto;
     background-image: url("../wedding.jpg");
+    background-image: url("../busteni_panorama.jpg");
     background-repeat: no-repeat;
     /*background-size: 100vw;*/
-    background-position-x: 0vw;
+    background-position-x: -250px;
+    background-position-y: -340px;
     /*text-align: center;*/
 }
 
@@ -171,7 +175,7 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
     margin-top: 50vw;
     color: white;
     text-align:center;
-    background-color: black;
+    background-color: #052753;
     opacity: 0.4;
 
 }
