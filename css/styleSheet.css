@@ -37,6 +37,7 @@ body {
 
 /*google maps*/
 .mapouter {
+    align-content: center;
     position: relative;
     text-align: right;
     height: 500px;
@@ -44,6 +45,7 @@ body {
 }
 
 .gmap_canvas {
+    align-content: center;
     overflow: hidden;
     background: none !important;
     height: 500px;
@@ -240,6 +242,11 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
     /* we don't want the pseudo-elements sticking out */
 }
 
+.container2 {
+    display: inline;
+    /* we don't want the pseudo-elements sticking out */
+}
+
 .container svg {
     display: block;
 }
@@ -375,6 +382,56 @@ svg#bigTriangleColor2 {
     fill: white;
     stroke: white;
     stroke-width: 2;
+}
+
+
+/* Image display */
+
+#containerimg{
+    width: 1060px;
+    margin: 0 auto;
+    align-content: center;
+}
+
+.cropped {
+    width: 512px; /* width of container */
+    height: 320px; /* height of container */
+    overflow: hidden;
+    border: 5px solid black;
+}
+
+.cropped .margin {
+    margin: -50px 0px 0px 0px;
+}
+
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    width: 512px;
+    float:left
+}
+
+div.gallery.end{
+    margin: 5px;
+    border: 1px solid #ccc;
+    width: 520px;
+
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+    display: inline;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
 }
 
 
