@@ -220,6 +220,12 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
     padding-top: 500px;
 }
 
+.emptybox2 {
+    display: block;
+    padding-top: 200px;
+    overflow: hidden;
+}
+
 .centerme {
     text-align: center;
     background: white;
