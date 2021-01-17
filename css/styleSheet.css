@@ -393,8 +393,8 @@ svg#bigTriangleColor2 {
 }
 
 #bigTriangleColor2 path {
-    fill: white;
-    stroke: white;
+    fill: #ffffff;
+    stroke: #ffffff;
     stroke-width: 2;
 }
 
