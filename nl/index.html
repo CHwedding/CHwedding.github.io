@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/styleSheet.css">
+    <meta charset="UTF-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <title>Wedding</title>
+</head>
+
+
+<div class="homepage">
+    <body class="nomargins">
+
+    <script>
+        jQuery(document).ready(function ($) { //wait for the document to load
+            $('.hometext').each(function () { //loop through each element with the .dynamic-height class
+                $(this).css({
+                    'margin-top': $(window).width() * 0.6 + 'px' //adjust the css rule for margin-top to equal the element height - 10px and add the measurement unit "px" for valid CSS
+                });
+            });
+        });
+        jQuery(document).ready(function ($) { //wait for the document to load
+            $('.emptybox').each(function () { //loop through each element with the .dynamic-height class
+                $(this).css({
+                    'padding-top': $(window).width() * 0.270 + 'px' //adjust the css rule for margin-top to equal the element height - 10px and add the measurement unit "px" for valid CSS
+                });
+            });
+        });
+        $(window).resize(function () { //wait for the document to load
+            $('.hometext').each(function () { //loop through each element with the .dynamic-height class
+                $(this).css({
+
+                    'margin-top': $(window).width() * 0.6 + 'px' //adjust the css rule for margin-top to equal the element height - 10px and add the measurement unit "px" for valid CSS
+                });
+            });
+        });
+        $(window).resize(function () { //wait for the document to load
+            $('.emptybox').each(function () { //loop through each element with the .dynamic-height class
+                $(this).css({
+                    'padding-top': $(window).width() * 0.270 + 'px' //adjust the css rule for margin-top to equal the element height - 10px and add the measurement unit "px" for valid CSS
+                });
+            });
+        });
+    </script>
+
+    <div class="headerbox">
+        <header>
+            <h6 class="nomargins">4 September '21, Bușteni</h6>
+            <h1 class="lovestrong"> Cristina and Henry's Wedding</h1>
+            <div class="topnav">
+                <a href="index.html">Home</a>
+                <a href="location.html">Location</a>
+                <a href="schedule.html">Schedule</a>
+                <a href="getting_there.html">Getting There</a>
+                <a href="things_to_do.html">Things to do</a>
+                <a href="covid19.html">COVID '19</a>
+                <a href="faq.html">FAQ</a>
+            </div>
+        </header>
+    </div>
+
+
+    <div class="hometext">
+        4 September '21, Bușteni
+    </div>
+
+    <div class="emptybox"/>
+
+    <!--
+    <img src="wedding.jpg" alt="Wedding Sept 4 2021" class="homeimg">
+    -->
+
+    </body>
+
+    <footer>
+        <div class="footertext">
+            Contact: cristina.basescu at gmail.com ; hrtgruijters at gmail.com
+        </div>
+    </footer>
+
+</div>
+
+</html>
