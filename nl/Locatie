@@ -12,7 +12,7 @@
         <h1 class="lovestrong">Cristina and Henry's Wedding</h1>
         <div class="topnav">
             <a href="index.html">Home</a>
-            <a href="location.html">Location</a>
+            <a href="locatie.html">Locatie</a>
             <a href="schedule.html">Schedule</a>
             <a href="getting_there.html">Getting There</a>
             <a href="things_to_do.html">Things to do</a>
@@ -38,7 +38,7 @@
 
 <section class="nomargins">
     <h2>Castelul Cantacuzino</h2>
-    <h4> This wonderful family mountain castle will be the venue for our wedding party.
+    <h4> Dit prachtige kasteeel is de huwelijkslocatie.
         (<a href="http://www.cantacuzinocastle.com/homeeng">webpage</a>) </h4>
 
 
@@ -91,7 +91,7 @@
                  alt="Ansamblu Cantacuzino, Bușteni 02"
                  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ansamblu_Cantacuzino%2C_Bu%C8%99teni_02.jpg/512px-Ansamblu_Cantacuzino%2C_Bu%C8%99teni_02.jpg"></a>
         </div>
-        <div class="desc">Cantacuzino Castle</div>
+        <div class="desc">Kasteel Cantacuzino</div>
     </div>
 
     <div class="gallery">
@@ -99,7 +99,7 @@
             <div class="margin">
             <img src="BucegiNatPark.jpg" height="512" alt="Curtea Castelului Cantacuzino">
             </div></div>
-        <div class="desc">View from the castle grounds</div>
+        <div class="desc">Uitzicht van het kasteel</div>
     </div>
     </div>
 
