@@ -3,14 +3,14 @@
 <head>
     <link rel="stylesheet" href="css/styleSheet.css">
     <meta charset="UTF-8">
-    <title>Cristina and Henry Wedding</title>
-    <!-- ADD a LINK TO YOUR STYLE SHEET HERE!! -->
+    <title>Cristina and Henry Huwelijk</title>
+  
 </head>
 
 <div class="headerbox">
     <header>
         <h6 class="nomargins">4 September '21, Bușteni</h6>
-        <h1 class="lovestrong">Cristina and Henry's Wedding</h1>
+        <h1 class="lovestrong">Cristina and Henry's Huwelijk</h1>
         <div class="topnav">
             <a href="index.html">Home</a>
             <a href="locatie.html">Location</a>
@@ -88,11 +88,9 @@
 
 <section class="nomargins">
     <h2 class="nomargins">After Party Transport</h2>
-    <h3>SUNDAY, SEPTEMBER 5, 2020 12:30 AM - 3:30 AM</h3>
+    <h3>Zondag, 5 SEPTEMBER, 2020 12:30 AM - 3:30 AM</h3>
 
-    <p>As many of you will be enjoying a drink or two during the wedding and will need some transport home /
-        back to your accommodation, we are organizing transport to Bușteni and Sinaia. (Romania has a 0.0% drink
-        driving policy)</p>
+    <p>wij heffen graag met jullie een aantal glaasjes om ons huwelijk te vieren. Wij regelen daarom transport van het kasteel naar Bușteni en Sinaia.</p>
 </section>
 
 <div class="trianglecontainer">
