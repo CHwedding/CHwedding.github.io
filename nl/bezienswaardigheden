@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/styleSheet.css">
+    <meta charset="UTF-8">
+    <title>Cristina and Henry Wedding</title>
+    <!-- ADD a LINK TO YOUR STYLE SHEET HERE!! -->
+</head>
+
+<div class="headerbox">
+    <header>
+        <h6 class="nomargins">4 September '21, Bușteni</h6>
+        <h1 class="lovestrong">Cristina and Henry's Wedding</h1>
+        <div class="topnav">
+            <a href="index.html">Home</a>
+            <a href="location.html">Location</a>
+            <a href="schedule.html">Schedule</a>
+            <a href="getting_there.html">Getting There</a>
+            <a href="things_to_do.html">Things to do</a>
+            <a href="covid19.html">COVID '19</a>
+            <a href="faq.html">FAQ</a>
+        </div>
+    </header>
+</div>
+
+<body class="nomargins">
+
+<div class="section_title">
+    <h1>Things To Do</h1>
+    <p> Cantacuzino Castle itself is one of the things to do in the region. The impressive mountains forming the backdrop of our wedding are part of the Bucegi National Park. Covering an area of 32,663
+        hectares across three counties,
+        more than 60% of the natural park is covered with forests. Perfect for hiking, mountain biking, visiting waterfalls
+        and discovering strange rock formations. </p>
+    <br>
+
+    <a href="#around" style="color:white; font-size:1.8em"> Bușteni and Sinaia</a> |
+    <a href="#brasov" style="color:white; font-size:1.8em"> Brașov and surroundings</a> |
+    <a href="#sibiu_cluj" style="color:white; font-size:1.8em"> Sibiu and Cluj</a> |
+    <a href="#bucharest" font-size="1.3em" style="color:white; font-size:1.8em"> Bucharest </a>
+
+</div>
+
+<div class="trianglecontainer">
+    <div class="container">
+        <svg id="bigTriangleColor" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100"
+             viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path d="M0 0 L50 100 L0 100 Z M50 100 L100 100 L100 0Z"/>
+        </svg>
+    </div>
+</div>
+
+
+<section class="nomargins" id="around">
+    <h2>Bușteni and Sinaia</h2>
+
+    <div class="containerimg">
+        <div class="gallery">
+            <a href="http://peles.ro/" target="_blank">Peleș Castle</a>
+            <div class="cropped">
+
+                <a title="TiberiuSahlean, CC BY-SA 3.0 RO &lt;https://creativecommons.org/licenses/by-sa/3.0/ro/deed.en&gt;, via Wikimedia Commons"
+                   href="https://commons.wikimedia.org/wiki/File:Castelul_Peles,_Sinaia_-_Vedere_panoramica.jpg"><img
+                            width="512" alt="Castelul Peles, Sinaia - Vedere panoramica"
+                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Castelul_Peles%2C_Sinaia_-_Vedere_panoramica.jpg/512px-Castelul_Peles%2C_Sinaia_-_Vedere_panoramica.jpg"></a>
+            </div>
+            <div class="desc">One of the most beautiful castles in the country. Intact and well kept, this place used to
+                be the summer
+                residence of the Royal family.
+            </div>
+
+        </div>
+
+        <div class="gallery">
+            <a href="http://manastireasinaia.ro/" target="_blank">Sinaia Monastery</a>
+            <div class="cropped">
+                <div class="margin3">
+
+                    <a title="Pudelek (Marcin Szala), CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons"
+                       href="https://commons.wikimedia.org/wiki/File:Sinaia_monastery_-_the_Great_Church.jpg"><img
+                                width="512"
+                                alt="Sinaia monastery - the Great Church"
+                                src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sinaia_monastery_-_the_Great_Church.jpg/512px-Sinaia_monastery_-_the_Great_Church.jpg"></a>
+                </div>
+            </div>
+            <div class="desc">The monastery gave its name to the nearby town of Sinaia. The monastery consists of two
+                courtyards surrounded by low
+                buildings.
+                In the centre of each courtyard there is a small church built in the Byzantine style. One of
+                them—"Biserica Veche"
+                (The Old Church)—dates from 1695,
+                while the more recent "Biserica Mare" (The Great Church) was built in 1846.
+            </div>
+        </div>
+
+
+        <div class="gallery">
+            <a href="https://en.wikipedia.org/wiki/Sphinx_(Romania)" target="_blank">The Sphinx</a>
+            <div class="cropped">
+                <a title="Radu Privantu, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons"
+                   href="https://commons.wikimedia.org/wiki/File:Bucegi_Sphinx_-_Romania_-_July_2009.jpg"><img
+                            width="512" alt="Bucegi Sphinx - Romania - July 2009"
+                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bucegi_Sphinx_-_Romania_-_July_2009.jpg/512px-Bucegi_Sphinx_-_Romania_-_July_2009.jpg"></a>
+            </div>
+            <div class="desc">On the Bucegi plateau you can find this natural rock formation shrouded in mystery and
+                conspiracy
+                theories. The odd formation
+                is one of the “Seven Wonders of Romania".
+                You can hike all the way up to check it out, or take the cable car from Bușteni.
+            </div>
+
+        </div>
+
+        <div class="gallery">
+            <a href="https://en.wikipedia.org/wiki/Heroes%27_Cross_on_Caraiman_Peak" target="_blank">Heroes' Cross on
+                Caraiman Peak</a>
+            <div class="cropped">
+                <a title="Papa3, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons"
+                   href="https://commons.wikimedia.org/wiki/File:Cross_on_Caraiman_Peak.JPG"><img width="512"
+                                                                                                  alt="Cross on Caraiman Peak"
+                                                                                                  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cross_on_Caraiman_Peak.JPG/512px-Cross_on_Caraiman_Peak.JPG"
+                                                                                                  style="margin: -40px 0px 0px 0px;"></a>
+            </div>
+            <div class="desc">The Heroes' Cross is a monument built in the 1920s at the height of the Oriental Express
+                on Caraiman Peak at 2,291 m.
+                You will be able to see it from Cantacuzino castle,
+                but if you want to get up close you can take a cable car from Bușteni and then it is a 1 hour walk
+                following the red
+                cross markings on the relatively flat plateau.
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<div class="trianglecontainer">
+    <div class="container">
+        <svg id="bigTriangleColor" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100"
+             viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path d="M0 0 L50 100 L100 0 Z"/>
+        </svg>
+    </div>
+    <div class="container2">
+        <svg id="bigTriangleColor2" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100"
+             viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path d="M0 0 L50 100 L0 100 Z M50 100 L100 100 L100 0Z"/>
+        </svg>
+    </div>
+</div>
+
+
+<div class="section2" id="brasov">
+    <h2>Brașov and surroundings</h2>
+
+    <div class="containerimg">
+        <div class="gallery">
+            <a href="http://romaniatourism.com/brasov.html" target="_blank">Brașov</a>
+            <div class="cropped">
+                <div class="margin2">
+
+                    <a title="Daniel Pandelea, CC BY-SA 3.0 RO &lt;https://creativecommons.org/licenses/by-sa/3.0/ro/deed.en&gt;, via Wikimedia Commons"
+                       href="https://commons.wikimedia.org/wiki/File:Biserica_evanghelic%C4%83_zis%C4%83_%22Biserica_Neagr%C4%83%22_2012-09-03_21-51-49.jpg"><img
+                                width="512"
+                                alt="Biserica evanghelică zisă &quot;Biserica Neagră&quot; 2012-09-03 21-51-49"
+                                src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Biserica_evanghelic%C4%83_zis%C4%83_%22Biserica_Neagr%C4%83%22_2012-09-03_21-51-49.jpg/512px-Biserica_evanghelic%C4%83_zis%C4%83_%22Biserica_Neagr%C4%83%22_2012-09-03_21-51-49.jpg"></a>
+                </div>
+            </div>
+            <div class="desc">The closest city, historical with nice architecture, surrounded by mountains. There are
+                many things to do. We
+                recommend the restaurant "La Musica" and the Black Church.
+            </div>
+
+        </div>
+
+
+        <div class="gallery">
+            <a href="http://www.bran-castle.com/" target="_blank">Bran Castle</a>
+            <div class="cropped">
+                <a title="Dobre Cezar, CC BY-SA 3.0 RO &lt;https://creativecommons.org/licenses/by-sa/3.0/ro/deed.en&gt;, via Wikimedia Commons"
+                   href="https://commons.wikimedia.org/wiki/File:Castelul_Bran2.jpg"><img width="512"
+                                                                                          alt="Castelul Bran2"
+                                                                                          src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Castelul_Bran2.jpg/512px-Castelul_Bran2.jpg"></a>
+            </div>
+            <div class="desc">Dracula's legend? Learn more about how the myth came about. It's located in Bran, a
+                touristy town next to Piatra
+                Craiului National Park (also a great place for hiking).
+                By car it's 45 minutes from Busteni. By public transport it's a bit difficult but not impossible: go by
+                train to
+                Brasov and from there take a bus.
+            </div>
+        </div>
+
+
+        <div class="gallery">
+            <a href="https://en.wikipedia.org/wiki/R%C3%A2%C8%99nov_Citadel" target="_blank">Râșnov Citadel</a>
+            <div class="cropped">
+                <a title="www.bdmundo.com, CC BY-SA 2.0 &lt;https://creativecommons.org/licenses/by-sa/2.0&gt;, via Wikimedia Commons"
+                   href="https://commons.wikimedia.org/wiki/File:R%C3%A2%C8%99nov_Citadel_(30818378672).jpg"><img
+                            width="512"
+                            alt="Râșnov Citadel (30818378672)"
+                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/R%C3%A2%C8%99nov_Citadel_%2830818378672%29.jpg/512px-R%C3%A2%C8%99nov_Citadel_%2830818378672%29.jpg"></a>
+            </div>
+            <div class="desc">Râșnov Citadel is well worth a visit and one of the few citadels of its kind. The fortress
+                was its own small
+                community and served as a place of refuge and safety during times of attack.
+                All classes of people, including peasants from nearby villages, fled to the fortress and stayed in the
+                small houses
+                lining the spiraling streets inside.
+            </div>
+
+        </div>
+
+
+        <div class="gallery">
+            <a href="https://www.tripadvisor.com/Attraction_Review-g1913628-d2249898-Reviews-Libearty_Bear_Sanctuary_Zarnesti-Zarnesti_Brasov_County_Central_Romania_Transylv.html"
+               target="_blank">Libearty Bear Sanctuary Zărnești</a>
+            <div class="cropped">
+                <a title="Nicolas Vollmer, Munich, Germany, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons"
+                   href="https://commons.wikimedia.org/wiki/File:Bear_climbing_a_tree_in_Libearty_Bear_Sanctuary_32147519364_cropped.jpg"><img
+                            width="512" alt="Bear climbing a tree in Libearty Bear Sanctuary 32147519364 cropped"
+                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Bear_climbing_a_tree_in_Libearty_Bear_Sanctuary_32147519364_cropped.jpg/512px-Bear_climbing_a_tree_in_Libearty_Bear_Sanctuary_32147519364_cropped.jpg"></a>
+            </div>
+            <div class="desc">You still find wild bears in Romania, but you do not want to come across them on a hike.
+                If you want to see these
+                magnificent animals in a safe place,
+                but not in a zoo, this is the place to go.
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div class="trianglecontainer">
+    <div class="container">
+        <svg id="bigTriangleColor2" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100"
+             viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path d="M0 0 L50 100 L100 0 Z"/>
+        </svg>
+    </div>
+    <div class="container2">
+        <svg id="bigTriangleColor" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100"
+             viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path d="M0 0 L50 100 L0 100 Z M50 100 L100 100 L100 0Z"/>
+        </svg>
+    </div>
+</div>
+
+
+<section class="nomargins" id="sibiu_cluj">
+    <h2>Sibiu and Cluj</h2>
+
+    <div class="containerimg">
+        <div class="gallery">
+            <a href="http://romaniatourism.com/sibiu.html"
+               target="_blank">Sibiu</a>
+            <div class="cropped">
+                <a title="norbertlkraft, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons"
+                   href="https://commons.wikimedia.org/wiki/File:Sibiu_-_Hermannstadt_Piata_mare_-_panoramio.jpg"><img
+                            width="512" alt="Sibiu - Hermannstadt Piata mare - panoramio"
+                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sibiu_-_Hermannstadt_Piata_mare_-_panoramio.jpg/512px-Sibiu_-_Hermannstadt_Piata_mare_-_panoramio.jpg"></a>
+
+            </div>
+            <div class="desc">Sibiu (Hermannstadt in German) was the largest and wealthiest of the seven walled
+                citadels* built in the 12th century by German settlers known as Transylvanian Saxons. Sibiu's Old Town
+                retains the grandeur of its earlier days when rich and powerful guilds dominated regional trade.
+                Sections of the medieval wall still guard the historic area, where narrow streets pass steep-roofed 17th
+                century buildings with gable overhangs before opening into vast, church-dominated squares such as Great
+                Square and Little Square. (source: romaniatourism.com)
+            </div>
+        </div>
+
+
+        <div class="gallery">
+            <a href="http://romaniatourism.com/cluj-napoca.html" target="_blank">Cluj-Napoca</a>
+            <div class="cropped">
+
+                    <img src="Cluj.jpg" alt=Cluj-Napoca">
+            </div>
+            <div class="desc">This western city in the region of Transylvania traces its origins back to the Dacian settlement of Napuca in the 2-nd century A.D. After the Roman take-over of Dacia, it was renamed Napoca and in 124 A.D., received the rank of "municipium". German merchants, who arrived here in the 12th century, rebuilt the medieval earthen walls of Clus in stone after the Tartar invasion of 1241. With one of the most vibrant economies in the country and a population of around 330,000, Cluj, is today a vibrant cultural and educational city. (source: romaniatourism.com)
+            </div>
+        </div>
+
+
+    </div>
+
+</section>
+
+<div class="trianglecontainer">
+    <div class="container">
+        <svg id="bigTriangleColor" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100"
+             viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path d="M0 0 L50 100 L100 0 Z"/>
+        </svg>
+    </div>
+    <div class="container2">
+        <svg id="bigTriangleColor2" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100"
+             viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path d="M0 0 L50 100 L0 100 Z M50 100 L100 100 L100 0Z"/>
+        </svg>
+    </div>
+</div>
+
+
+<div class="section2" id="bucharest">
+    <h2>Bucharest</h2>
+
+    <div class="containerimg">
+        <div class="gallery">
+            <a href="https://www.tripadvisor.com/Attraction_Review-g294458-d318176-Reviews-Palace_of_Parliament-Bucharest.html"
+               target="_blank">Palace of Parliament</a>
+            <div class="cropped">
+                <!--<a title="Theclettus, CC BY-SA 3.0 RO &lt;https://creativecommons.org/licenses/by-sa/3.0/ro/deed.en&gt;, via Wikimedia Commons"
+                   href="https://commons.wikimedia.org/wiki/File:Palatul_Parlamentului_b.jpg"><img width="512"
+                                                                                                   alt="Palatul Parlamentului b"
+                                                                                                   src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Palatul_Parlamentului_b.jpg/512px-Palatul_Parlamentului_b.jpg" style="margin: -40px 0px 0px 0px;"></a>
+                -->
+                <img src="palatul_parlamentului.jpg"></a>
+
+            </div>
+            <div class="desc">Built during the communist regime, the formerly known House of the People (now the
+                Palace of the Parliament) holds
+                many famous and infamous records: the world's largest civilian building with an administrative
+                function (the seat of
+                the Parliament of Romania), world's most expensive administrative building, world's heaviest
+                building (4,098,500,000
+                kilograms). A visit gives you insight into the megalomaniac mind of Ceaușescu. Interesting fact: the
+                building has
+                just as many levels underground as above. (image source: tripadvisor.com)
+            </div>
+        </div>
+
+
+        <div class="gallery">
+            <a href="https://www.festivalenescu.ro/en/festival-2021/" target="_blank">"George Enescu" Classical
+                Music Festival</a>
+            <div class="cropped">
+                <div class="margin3">
+
+                    <a title="E. Joaillier, Paris  (photographer), Public domain, via Wikimedia Commons"
+                       href="https://commons.wikimedia.org/wiki/File:Georges_Enesco_1930.jpg"><img width="512"
+                                                                                                   alt="Georges Enesco 1930"
+                                                                                                   src="https://upload.wikimedia.org/wikipedia/commons/0/00/Georges_Enesco_1930.jpg"></a>
+                </div>
+            </div>
+            <div class="desc">The George Enescu Festival (August - September), held in honor of the celebrated
+                Romanian composer George Enescu,
+                is the biggest classical music festival and classical international competition held in Romania and
+                one of the
+                biggest in Eastern Europe.
+            </div>
+        </div>
+
+
+    </div>
+
+</div>
+
+<div class="trianglecontainer">
+    <div class="container">
+        <svg id="bigTriangleColor2" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100"
+             viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path d="M0 0 L50 100 L100 0 Z"/>
+        </svg>
+    </div>
+    <div class="container2">
+        <svg id="bigTriangleColor" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100"
+             viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path d="M0 0 L50 100 L0 100 Z M50 100 L100 100 L100 0Z"/>
+        </svg>
+    </div>
+</div>
+
+
+<!--
+<h2> Bucegi National Park</h2>
+<img src="BucegiNatPark.jpg" alt="Girl in a jacket">
+<address>
+    <br>
+    DB
+    Romania
+    +40 372 758 550
+    <br>
+</address>
+<p>These impressive mountains will be the backdrop of our wedding. Bucegi National Park covers an area of 32,663
+    hectares across three counties,
+    more than 60% of the natural park is covered with forests. Perfect for hiking, mountain biking, visiting waterfalls
+    and discovering strange rock formations and you might even see some bears.</p>
+<div class="mapouter">
+    <div class="gmap_canvas">
+        <iframe width="600" height="500" id="gmap_canvas"
+                src="https://maps.google.com/maps?q=Gucegi%20National%20Park&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+        <a href="https://sites.google.com/view/maps-api-v2/mapv2"></a></div>
+</div>
+-->
+
+
+</body>
+
+<footer>
+    <div class="footertext">
+        Contact: cristina.basescu at gmail.com ; hrtgruijters at gmail.com
+    </div>
+</footer>
+
+</html>
+
+    © 2021 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
