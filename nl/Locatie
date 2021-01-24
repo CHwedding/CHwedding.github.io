@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/styleSheet.css">
+    <meta charset="UTF-8">
+    <title>Wedding</title>
+</head>
+
+<div class="headerbox">
+    <header>
+        <h6 class="nomargins">4 September '21, Bușteni</h6>
+        <h1 class="lovestrong">Cristina and Henry's Wedding</h1>
+        <div class="topnav">
+            <a href="index.html">Home</a>
+            <a href="location.html">Location</a>
+            <a href="schedule.html">Schedule</a>
+            <a href="getting_there.html">Getting There</a>
+            <a href="things_to_do.html">Things to do</a>
+            <a href="covid19.html">COVID '19</a>
+            <a href="faq.html">FAQ</a>
+        </div>
+    </header>
+</div>
+
+<body class="nomargins">
+
+<div class="section_title">
+    <h1>Location</h1>
+</div>
+
+<div class="trianglecontainer">
+    <div class="container">
+        <svg id="bigTriangleColor" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path d="M0 0 L50 100 L0 100 Z M50 100 L100 100 L100 0Z" />
+        </svg>
+    </div>
+</div>
+
+<section class="nomargins">
+    <h2>Castelul Cantacuzino</h2>
+    <h4> This wonderful family mountain castle will be the venue for our wedding party.
+        (<a href="http://www.cantacuzinocastle.com/homeeng">webpage</a>) </h4>
+
+
+    <div class="mapouter">
+        <div class="gmap_canvas">
+            <iframe width="600" height="500" id="gmap_canvas"
+                    src="https://maps.google.com/maps?q=Cantacuzino%20castle&t=k&z=7&ie=UTF8&iwloc=&output=embed"
+                    frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+        </div>
+        <style>.mapouter {
+                align-content: center;
+                text-align: center;
+                height: 500px;
+                width: 100%;
+            }
+
+            .gmap_canvas {
+                text-align: center;
+                align-content: center;
+                background: none !important;
+                height: 500px;
+                width: 100%;
+            }</style>
+    </div>
+
+
+</section>
+
+
+<div class="trianglecontainer">
+    <div class="container">
+        <svg id="bigTriangleColor" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path d="M0 0 L50 100 L100 0 Z" />
+        </svg>
+    </div>
+    <div class="container2">
+        <svg id="bigTriangleColor2" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path d="M0 0 L50 100 L0 100 Z M50 100 L100 100 L100 0Z" />
+        </svg>
+    </div>
+</div>
+
+<div class="section2">
+    <div class="containerimg">
+    <div class="gallery">
+        <div class="cropped">
+        <a title="Nicubunu, CC BY-SA 3.0 RO &lt;https://creativecommons.org/licenses/by-sa/3.0/ro/deed.en&gt;, via Wikimedia Commons"
+           href="https://commons.wikimedia.org/wiki/File:Ansamblu_Cantacuzino,_Bu%C8%99teni_02.jpg">
+            <img width="512"
+                 alt="Ansamblu Cantacuzino, Bușteni 02"
+                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ansamblu_Cantacuzino%2C_Bu%C8%99teni_02.jpg/512px-Ansamblu_Cantacuzino%2C_Bu%C8%99teni_02.jpg"></a>
+        </div>
+        <div class="desc">Cantacuzino Castle</div>
+    </div>
+
+    <div class="gallery">
+        <div class="cropped">
+            <div class="margin">
+            <img src="BucegiNatPark.jpg" height="512" alt="Curtea Castelului Cantacuzino">
+            </div></div>
+        <div class="desc">View from the castle grounds</div>
+    </div>
+    </div>
+
+</div>
+
+<div class="trianglecontainer">
+    <div class="container">
+        <svg id="bigTriangleColor2" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path d="M0 0 L50 100 L100 0 Z"  />
+        </svg>
+    </div>
+    <div class="container2">
+        <svg id="bigTriangleColor" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path d="M0 0 L50 100 L0 100 Z M50 100 L100 100 L100 0Z" />
+        </svg>
+    </div>
+</div>
+
+<div style="clear:both;"></div>
+
+
+</body>
+
+<footer>
+    <div class="footertext">
+        Contact: cristina.basescu at gmail.com ; hrtgruijters at gmail.com
+    </div>
+</footer>
+
+</html>
