@@ -13,9 +13,9 @@
         <h1 class="lovestrong">Cristina and Henry's Wedding</h1>
         <div class="topnav">
             <a href="index.html">Home</a>
-            <a href="location.html">Location</a>
-            <a href="schedule.html">Schedule</a>
-            <a href="getting_there.html">Getting There</a>
+            <a href="locatie.html">Location</a>
+            <a href="schema_temp.html">Schedule</a>
+            <a href="reis.html">Getting There</a>
             <a href="things_to_do.html">Things to do</a>
             <a href="covid19.html">COVID '19</a>
             <a href="faq.html">FAQ</a>
@@ -27,7 +27,7 @@
 <body class="nomargins">
 
 <div class="section_title">
-    <h1>Schedule</h1>
+    <h1>Schema</h1>
 </div>
 
 <div class="trianglecontainer">
@@ -39,8 +39,8 @@
 </div>
 
 <section class="nomargins">
-    <h2>Ceremony (TBC)</h2>
-    <h3>SATURDAY, SEPTEMBER 4, 2021 1:00 PM</h3>
+    <h2>Ceremonie(TBC)</h2>
+    <h3>Zaterdag, 4 SEPTEMBER, 2021 1:00 PM</h3>
     <address>
         <br>
         Biserica Nașterea Maicii Domnului<br>
@@ -65,7 +65,7 @@
 
 
 <div class="section2">
-    <h2>Wedding Dinner and Party</h2>
+    <h2>Diner en Feest</h2>
     <h3>SATURDAY, SEPTEMBER 4, 2021 4:00 PM - 2:30 AM</h3>
     <address>
         <br>
